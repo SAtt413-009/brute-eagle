@@ -17,3 +17,4 @@ The tool may be outdated and not at working condition.
 # Brute-eagle
 A multi-purpose tool for instagram hacks.
 
+https://github.com/whxitte/brute-eagle.githttps://github.com/WH1T3-E4GL3/brute-eagle.git
